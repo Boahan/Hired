@@ -62,15 +62,8 @@ This project is a full stack job portal application built using **React.js**, **
   
 ## Project Setup
 
-This project uses multiple tools and services. To set up the project locally, ensure you have the following credentials and add them to your `.env` file.
+This project uses multiple tools and services. To set up the project locally, ensure you follow the steps mentioned below.
 
-### .env Configuration
-
-```
-VITE_SUPABASE_URL=<your_supabase_url>
-VITE_SUPABASE_ANON_KEY=<your_supabase_anon_key>
-VITE_CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
-```
 
 ### Installation & Running Locally
 
@@ -90,8 +83,13 @@ VITE_CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
    ```
    
 4. Add your environment variables to a `.env` file.
+   ```bash
+   VITE_SUPABASE_URL=<your_supabase_url>
+   VITE_SUPABASE_ANON_KEY=<your_supabase_anon_key>
+   VITE_CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
+   ```
 
-5. Run the project:
+6. Run the project:
    ```bash
    npm run dev
    ```
