@@ -48,6 +48,9 @@ This project is a full stack job portal application built using **React.js**, **
 
 ### Application: ![image](https://github.com/user-attachments/assets/8f30863a-cb60-4d45-b4d7-c8a5cc309500)
 
+### Database: ![image](https://github.com/user-attachments/assets/e401a5dd-93eb-4940-9fb1-7aafe6b7af89)
+
+### Clerk: ![image](https://github.com/user-attachments/assets/d96cc5f1-3af7-43aa-9f8f-dabe610cfe70)
 
 
   
