@@ -96,5 +96,5 @@ This application is deployed on *Vercel*. Live Link: [https://hired-dusky.vercel
 
 ## Contact 📞
 
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/shaswat-gusain-2924a324a),[Email](shaswatgusain1@gmail.com)
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/shaswat-gusain-2924a324a), [Email](shaswatgusain1@gmail.com)
 
