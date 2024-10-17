@@ -40,7 +40,7 @@ This project is a full stack job portal application built using **React.js**, **
 
 ## Snapshots
 
-### Authentication: 
+### SignUp: 
 ![image](https://github.com/user-attachments/assets/8e7b995f-ba79-4ecb-8f0f-6e9f12be6b1c)
 
 ### Recruiter: 
@@ -55,7 +55,7 @@ This project is a full stack job portal application built using **React.js**, **
 ### Database: 
 ![image](https://github.com/user-attachments/assets/e401a5dd-93eb-4940-9fb1-7aafe6b7af89)
 
-### Clerk: 
+### Authentication: 
 ![image](https://github.com/user-attachments/assets/d96cc5f1-3af7-43aa-9f8f-dabe610cfe70)
 
 
