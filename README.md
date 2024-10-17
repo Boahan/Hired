@@ -36,6 +36,20 @@ This project is a full stack job portal application built using **React.js**, **
 - Responsive UI built using **Shadcn UI** and **Tailwind CSS**.
 - Integrated with **Supabase Storage** to handle uploads like resumes.
 - Dynamic **job filters** and **search bar** for easy job discovery.
+
+
+## Snapshots
+
+### Authentication: ![image](https://github.com/user-attachments/assets/8e7b995f-ba79-4ecb-8f0f-6e9f12be6b1c)
+
+### Recruiter: ![image](https://github.com/user-attachments/assets/a9631569-5810-4cfd-87cc-df75580eb161)
+
+### Candidate: ![image](https://github.com/user-attachments/assets/b9cb6263-bd3d-45b2-aaf0-8e5ee5e53e5a)
+
+### jobs: ![image](https://github.com/user-attachments/assets/8f30863a-cb60-4d45-b4d7-c8a5cc309500)
+
+
+
   
 ## Project Setup
 
@@ -97,5 +111,5 @@ This application is deployed on *Vercel*. Live Link: [https://hired-dusky.vercel
 
 ## Contact 📞
 
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/shaswat-gusain-2924a324a), [Email](shaswatgusain1@gmail.com)
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/shaswat-gusain-2924a324a), [Email](shaswatgusain1@gmail.com).
 
