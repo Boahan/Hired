@@ -87,7 +87,7 @@ VITE_CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
 - **Candidate Dashboard**: View saved jobs, applied jobs, and job statuses.
 - **Recruiter Dashboard**: Manage job postings, view applicants, and update hiring status.
 - **Application Management**: Track application progress (e.g., applied, interviewing, hired, rejected).
-- 
+
 
 ## Deployment
 
