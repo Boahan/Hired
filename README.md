@@ -1,5 +1,6 @@
 
-# Full Stack Job Portal Application - React, Tailwind, Supabase, Clerk, and Shadcn UI.
+# Full Stack Job Portal Application - 
+# React, Tailwind, Supabase, Clerk, and Shadcn UI.
 
 ![image](https://github.com/user-attachments/assets/5b0edff7-975b-41df-b802-ddce02b5d5d8)
 
