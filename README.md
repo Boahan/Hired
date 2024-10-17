@@ -46,7 +46,7 @@ This project is a full stack job portal application built using **React.js**, **
 
 ### Candidate: ![image](https://github.com/user-attachments/assets/b9cb6263-bd3d-45b2-aaf0-8e5ee5e53e5a)
 
-### jobs: ![image](https://github.com/user-attachments/assets/8f30863a-cb60-4d45-b4d7-c8a5cc309500)
+### Application: ![image](https://github.com/user-attachments/assets/8f30863a-cb60-4d45-b4d7-c8a5cc309500)
 
 
 
