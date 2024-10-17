@@ -1,2 +1,98 @@
-# Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI.
+# Full Stack Job Portal Application - React, Tailwind, Supabase, Clerk, and Shadcn UI 🔥🔥
+
+![Thumbnail]()
+
+This project is a full stack job portal application built using *React.js, **Tailwind CSS, **Supabase, **Clerk* for authentication, and *Shadcn UI* for the frontend components. The application allows both *candidates* and *recruiters* to interact in a seamless job listing and application platform. It covers a wide range of functionalities such as user authentication, job posting, applying for jobs, and tracking job application statuses.
+
+## Key Features
+- *User Authentication: Integrates **Clerk* to manage authentication (Google or custom email/password).
+- *Role Selection: Onboarding screen allows users to select between **candidate* or *recruiter* roles.
+- *Job Listings*: Users can search, filter, view, and apply for jobs.
+- *Recruiters*: Can post jobs, manage applicants, and track application statuses.
+- *Responsive Design: Built using **Tailwind CSS* to ensure a seamless experience across devices.
+- *Storage and Database: Uses **Supabase* to store job posts, applications, and user data.
+- *Job Assessments*: Candidates can take assessments linked to specific job applications.
+- *Deployment: Fully hosted on **Vercel* with environment variables for API keys and credentials.
+
+## Functionalities
+
+### For Candidates:
+- View, search, and filter job listings.
+- Apply for jobs and take relevant assessments.
+- Save jobs to a wishlist using Supabase.
+- View saved jobs and track the status of applications.
+- Manage account settings and sign out functionality.
+
+### For Recruiters:
+- Post jobs with custom fields like *job title, **job description, **location, and **company details*.
+- Manage job postings, including *changing hiring status* (open/closed).
+- View applications received for specific jobs.
+- Download applicant resumes.
+- Update the application status (e.g., applied, interviewing, hired, or rejected).
+
+### General Features:
+- Responsive UI built using *Shadcn UI* and *Tailwind CSS*.
+- Integrated with *Supabase Storage* to handle uploads like resumes.
+- Dynamic *job filters* and *search bar* for easy job discovery.
+  
+## Project Setup
+
+This project uses multiple tools and services. To set up the project locally, ensure you have the following credentials and add them to your .env file.
+
+### .env Configuration
+
+
+VITE_SUPABASE_URL=<your_supabase_url>
+VITE_SUPABASE_ANON_KEY=<your_supabase_anon_key>
+VITE_CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
+
+
+### Installation & Running Locally
+
+1. Clone the repository:
+   bash
+   git clone <repository-url>
+   
+   
+2. Navigate to the project directory:
+   bash
+   cd job-portal
+   
+   
+3. Install dependencies:
+   bash
+   npm install
+   
+   
+4. Add your environment variables to a .env file.
+
+5. Run the project:
+   bash
+   npm run dev
+   
+
+## Tech Stack
+
+- *Frontend*: React.js, Tailwind CSS, Shadcn UI
+- *Backend*: Supabase (Database & Storage)
+- *Authentication*: Clerk (Supports Google and custom email/password authentication)
+- *Form Handling*: React Hook Form
+- *Deployment*: Vercel
+
+## Screens and Pages
+- *Onboarding Page*: Select between candidate or recruiter.
+- *Job Listing Page*: Browse all available jobs, filter, and search.
+- *Job Details Page*: View details and apply for jobs, including assessments.
+- *Candidate Dashboard*: View saved jobs, applied jobs, and job statuses.
+- *Recruiter Dashboard*: Manage job postings, view applicants, and update hiring status.
+- *Application Management*: Track application progress (e.g., applied, interviewing, hired, rejected).
+
+## Deployment
+
+This application is deployed on *Vercel*. Live Link: [https://hired-dusky.vercel.app]
+
+
+## Contact 📞
+
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/shaswat-gusain-2924a324a),[Email](shaswatgusain1@gmail.com)
 
