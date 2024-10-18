@@ -67,13 +67,15 @@ This project uses multiple tools and services. To set up the project locally, en
 ## Dummy credentials
 
 Recruiter: Dummy@gmail.com
+
 Password: Dummy
 
 Candidate: Dummy@gmail.com
+
 Password:
 
 
-### Installation & Running Locally
+## Installation & Running Locally
 
 1. Clone the repository:
    ```bash
