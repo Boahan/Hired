@@ -64,6 +64,14 @@ This project is a full stack job portal application built using **React.js**, **
 
 This project uses multiple tools and services. To set up the project locally, ensure you follow the steps mentioned below.
 
+## Dummy credentials
+
+Recruiter: Dummy@gmail.com
+Password: Dummy
+
+Candidate: Dummy@gmail.com
+Password:
+
 
 ### Installation & Running Locally
 
