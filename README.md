@@ -68,11 +68,11 @@ This project uses multiple tools and services. To set up the project locally, en
 
 Recruiter: Dummy@gmail.com
 
-Password: Dummy
+Password: Sh@swat123
 
-Candidate: Dummy@gmail.com
+Candidate: Dummy1@gmail.com
 
-Password:
+Password: Sh@swat123
 
 
 ## Installation & Running Locally
